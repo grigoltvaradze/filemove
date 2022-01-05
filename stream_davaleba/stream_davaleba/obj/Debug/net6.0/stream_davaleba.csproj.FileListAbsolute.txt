@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\stream_davaleba\stream_davaleba\bin\Debug\net6.0\stream_davaleba.exe
+C:\Users\ASUS\source\repos\stream_davaleba\stream_davaleba\bin\Debug\net6.0\stream_davaleba.deps.json
+C:\Users\ASUS\source\repos\stream_davaleba\stream_davaleba\bin\Debug\net6.0\stream_davaleba.runtimeconfig.json
+C:\Users\ASUS\source\repos\stream_davaleba\stream_davaleba\bin\Debug\net6.0\stream_davaleba.dll
+C:\Users\ASUS\source\repos\stream_davaleba\stream_davaleba\bin\Debug\net6.0\ref\stream_davaleba.dll
+C:\Users\ASUS\source\repos\stream_davaleba\stream_davaleba\bin\Debug\net6.0\stream_davaleba.pdb
+C:\Users\ASUS\source\repos\stream_davaleba\stream_davaleba\obj\Debug\net6.0\stream_davaleba.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\stream_davaleba\stream_davaleba\obj\Debug\net6.0\stream_davaleba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\stream_davaleba\stream_davaleba\obj\Debug\net6.0\stream_davaleba.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\stream_davaleba\stream_davaleba\obj\Debug\net6.0\stream_davaleba.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\stream_davaleba\stream_davaleba\obj\Debug\net6.0\stream_davaleba.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\stream_davaleba\stream_davaleba\obj\Debug\net6.0\stream_davaleba.dll
+C:\Users\ASUS\source\repos\stream_davaleba\stream_davaleba\obj\Debug\net6.0\ref\stream_davaleba.dll
+C:\Users\ASUS\source\repos\stream_davaleba\stream_davaleba\obj\Debug\net6.0\stream_davaleba.pdb
+C:\Users\ASUS\source\repos\stream_davaleba\stream_davaleba\obj\Debug\net6.0\stream_davaleba.genruntimeconfig.cache
